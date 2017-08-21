@@ -4,7 +4,7 @@ This code is a example for test the send and the receive of text via Bluetooth L
 
 ## About this Example
 * Load this code in SimbleeBLE device
-* Download "BLE Terminal" App for Android by HERE: SOON
+* Download "BLE Terminal" App for Android by HERE: [BLE Terminal FREE](https://play.google.com/store/apps/details?id=com.edodm85.bluetoothbleterminal.free)
 * Try to send and receive some text
 
 
