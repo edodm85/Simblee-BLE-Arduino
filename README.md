@@ -11,3 +11,10 @@ This code is a example for test the send and the receive of text via Bluetooth L
 ## Output
 
 <img src=https://github.com/edodm85/Simblee-BLE-Arduino/blob/master/screen_2.png >
+
+
+## License
+
+> Copyright (C) 2017 edodm85.  
+> Licensed under the MIT license.  
+> (See the [LICENSE](https://github.com/edodm85/Simblee-BLE-Arduino/blob/master/LICENSE) file for the whole license text.)
